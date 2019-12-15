@@ -15,7 +15,7 @@ _17.11.2019_
 |python| 1 / 10|
 |Docker| 3 / 10|
 |ansible| 1 / 10|
-|Kotlin| 4 / 10|
+|Kotlin| 5 / 10|
 |Groovy| 3 / 10|
 |Scala| 1 / 10|
 |Spring| 5 / 10|
