@@ -2,8 +2,7 @@
 My first repository
 
 ---
-My competencies (self-rating):
-_17.11.2019_
+My competencies (self-rate):
 
 |competence|rating|
 |----------|-----:|
@@ -19,3 +18,6 @@ _17.11.2019_
 |Groovy| 3 / 10|
 |Scala| 1 / 10|
 |Spring| 5 / 10|
+|Apache Ignite| 2 / 10|
+|Android| 3 / 10|
+|Apache Kafka| 1 / 10|
