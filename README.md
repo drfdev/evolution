@@ -20,4 +20,4 @@ My competencies (self-rate):
 |Spring| 5 / 10|
 |Apache Ignite| 2 / 10|
 |Android| 3 / 10|
-|Apache Kafka| 1 / 10|
+|Apache Kafka| 2 / 10|
