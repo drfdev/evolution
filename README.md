@@ -18,6 +18,6 @@ My competencies (self-rate):
 |Groovy| 3 / 10|
 |Scala| 1 / 10|
 |Spring| 5 / 10|
-|Apache Ignite| 2 / 10|
+|Apache Ignite| 4 / 10|
 |Android| 3 / 10|
 |Apache Kafka| 2 / 10|
