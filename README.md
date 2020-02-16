@@ -23,3 +23,4 @@ My competencies (self-rate):
 |Android| 3 / 10|
 |Kafka| 2 / 10|
 |jsoup| 2 / 10|
+|protobuf| 2 / 10|
