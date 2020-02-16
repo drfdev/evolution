@@ -22,3 +22,4 @@ My competencies (self-rate):
 |Ignite| 4 / 10|
 |Android| 3 / 10|
 |Kafka| 2 / 10|
+|jsoup| 2 / 10|
