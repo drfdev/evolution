@@ -24,3 +24,4 @@ My competencies (self-rate):
 |Kafka| 2 / 10|
 |jsoup| 2 / 10|
 |protobuf| 2 / 10|
+|armeria| 2 / 10|
