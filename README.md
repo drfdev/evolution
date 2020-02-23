@@ -25,3 +25,4 @@ My competencies (self-rate):
 |jsoup| 2 / 10|
 |protobuf| 2 / 10|
 |armeria| 2 / 10|
+|javapoet| 2 / 10|
